@@ -1,0 +1,6 @@
+C:\Users\Johnny\source\repos\C-SharpDevelopment\bin\Debug\ConsoleApplication.exe
+C:\Users\Johnny\source\repos\C-SharpDevelopment\bin\Debug\ConsoleApplication.pdb
+C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\CSharp.csprojAssemblyReference.cache
+C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\ConsoleApplication.pdb
