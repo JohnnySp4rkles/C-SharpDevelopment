@@ -2,6 +2,7 @@
 
 namespace CSharp._002 {
     class Booleans {
+
         static void Main(string[] args) {
             bool varA = true;
             bool varB = false;
