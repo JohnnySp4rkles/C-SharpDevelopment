@@ -68,8 +68,8 @@
     <Content Include=".git\ms-persist.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="001\GettingInput.cs" />
-    <Compile Include="001\Welcome.cs" />
+    <Compile Include="001\002GettingInput.cs" />
+    <Compile Include="001\001Welcome.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".git\objects\info\" />
