@@ -33,7 +33,7 @@
     <RootNamespace>CSharp</RootNamespace>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp._002.Booleans</StartupObject>
+    <StartupObject>CSharp.Lesson002.UnaryOperators</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
@@ -68,10 +68,11 @@
     <Content Include=".git\ms-persist.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="001\002GettingInput.cs" />
-    <Compile Include="001\001Welcome.cs" />
-    <Compile Include="001\003InteractiveInput.cs" />
-    <Compile Include="002\Booleans.cs" />
+    <Compile Include="Lesson001\002GettingInput.cs" />
+    <Compile Include="Lesson001\001Welcome.cs" />
+    <Compile Include="Lesson001\003InteractiveInput.cs" />
+    <Compile Include="Lesson002\UnaryOperators.cs" />
+    <Compile Include="Lesson002\Booleans.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".git\objects\info\" />
