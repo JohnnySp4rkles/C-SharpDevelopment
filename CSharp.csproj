@@ -33,7 +33,7 @@
     <RootNamespace>CSharp</RootNamespace>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.Lesson002.UnaryOperators</StartupObject>
+    <StartupObject>CSharp.Lesson002.BinaryOperators</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
@@ -71,6 +71,7 @@
     <Compile Include="Lesson001\002GettingInput.cs" />
     <Compile Include="Lesson001\001Welcome.cs" />
     <Compile Include="Lesson001\003InteractiveInput.cs" />
+    <Compile Include="Lesson002\BinaryOperators.cs" />
     <Compile Include="Lesson002\UnaryOperators.cs" />
     <Compile Include="Lesson002\Booleans.cs" />
   </ItemGroup>
