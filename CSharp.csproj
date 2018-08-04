@@ -5,7 +5,7 @@
     <ProjectGuid>{B199A992-97D6-4997-8FB4-41FFAD7F6A6A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
-    <AssemblyName>ConsoleApplication</AssemblyName>
+    <AssemblyName>LeaningC</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -71,6 +71,7 @@
     <Compile Include="Lesson001\002GettingInput.cs" />
     <Compile Include="Lesson001\001Welcome.cs" />
     <Compile Include="Lesson001\003InteractiveInput.cs" />
+    <Compile Include="Lesson002\ArrayOperations.cs" />
     <Compile Include="Lesson002\BinaryOperators.cs" />
     <Compile Include="Lesson002\UnaryOperators.cs" />
     <Compile Include="Lesson002\Booleans.cs" />
