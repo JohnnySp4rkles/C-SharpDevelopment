@@ -32,6 +32,9 @@
   <PropertyGroup>
     <RootNamespace>CSharp</RootNamespace>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CSharp._001.GettingInput</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
@@ -65,6 +68,7 @@
     <Content Include=".git\ms-persist.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="001\GettingInput.cs" />
     <Compile Include="001\Welcome.cs" />
   </ItemGroup>
   <ItemGroup>
