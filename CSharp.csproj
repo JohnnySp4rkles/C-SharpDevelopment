@@ -33,7 +33,7 @@
     <RootNamespace>CSharp</RootNamespace>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp._001._003InteractiveInput</StartupObject>
+    <StartupObject>CSharp._002.Booleans</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
@@ -71,6 +71,7 @@
     <Compile Include="001\002GettingInput.cs" />
     <Compile Include="001\001Welcome.cs" />
     <Compile Include="001\003InteractiveInput.cs" />
+    <Compile Include="002\Booleans.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".git\objects\info\" />
