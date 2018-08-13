@@ -33,7 +33,7 @@
     <RootNamespace>CSharp</RootNamespace>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp.Lesson002.BinaryOperators</StartupObject>
+    <StartupObject>CSharp.Lesson003.IfSelection</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
@@ -75,6 +75,8 @@
     <Compile Include="Lesson002\BinaryOperators.cs" />
     <Compile Include="Lesson002\UnaryOperators.cs" />
     <Compile Include="Lesson002\Booleans.cs" />
+    <Compile Include="Lesson003\IfSelection.cs" />
+    <Compile Include="Lesson003\SwitchSelection.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".git\objects\info\" />

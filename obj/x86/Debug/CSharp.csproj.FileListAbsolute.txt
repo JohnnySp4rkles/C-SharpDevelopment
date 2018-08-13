@@ -1,6 +1,6 @@
 C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\CSharp.csprojAssemblyReference.cache
 C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\CSharp.csproj.CoreCompileInputs.cache
-C:\Users\Johnny\source\repos\C-SharpDevelopment\bin\Debug\Leaning C#.exe
-C:\Users\Johnny\source\repos\C-SharpDevelopment\bin\Debug\Leaning C#.pdb
-C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\Leaning C#.exe
-C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\Leaning C#.pdb
+C:\Users\Johnny\source\repos\C-SharpDevelopment\bin\Debug\LeaningC.exe
+C:\Users\Johnny\source\repos\C-SharpDevelopment\bin\Debug\LeaningC.pdb
+C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\LeaningC.exe
+C:\Users\Johnny\source\repos\C-SharpDevelopment\obj\x86\Debug\LeaningC.pdb
